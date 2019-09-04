@@ -1,0 +1,119 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2846",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Wurmcraft Ultimate Reloaded",
+  "version": "0.0.0",
+  "author": "Wurmatron",
+  "files": [
+    {
+      "projectID": 267602,
+      "fileID": 2642375,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 2724129,
+      "required": true
+    },
+    {
+      "projectID": 242818,
+      "fileID": 2755781,
+      "required": true
+    },
+    {
+      "projectID": 223794,
+      "fileID": 2747063,
+      "required": true
+    },
+    {
+      "projectID": 238403,
+      "fileID": 2691084,
+      "required": true
+    },
+    {
+      "projectID": 228756,
+      "fileID": 2747935,
+      "required": true
+    },
+    {
+      "projectID": 224602,
+      "fileID": 2766432,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 2731319,
+      "required": true
+    },
+    {
+      "projectID": 245174,
+      "fileID": 2755787,
+      "required": true
+    },
+    {
+      "projectID": 244451,
+      "fileID": 2734676,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2765112,
+      "required": true
+    },
+    {
+      "projectID": 278494,
+      "fileID": 2695388,
+      "required": true
+    },
+    {
+      "projectID": 235279,
+      "fileID": 2619468,
+      "required": true
+    },
+    {
+      "projectID": 289753,
+      "fileID": 2687563,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 2682920,
+      "required": true
+    },
+    {
+      "projectID": 223094,
+      "fileID": 2670367,
+      "required": true
+    },
+    {
+      "projectID": 268655,
+      "fileID": 2758688,
+      "required": true
+    },
+    {
+      "projectID": 237701,
+      "fileID": 2560638,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 2758684,
+      "required": true
+    },
+    {
+      "projectID": 285078,
+      "fileID": 2668789,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
